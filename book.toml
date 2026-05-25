@@ -1,0 +1,8 @@
+[book]
+title = "Manual"
+authors = ["Matias Elebi"]
+language = "es"
+[output.html]
+print = { enable = true }
+
+[output.pdf]
